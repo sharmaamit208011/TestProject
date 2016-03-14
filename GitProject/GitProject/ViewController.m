@@ -18,6 +18,7 @@
     
     UIView *remoteServerView = [[UIView alloc] init];
     [super viewDidLoad];
+    NSLog(@"This line is for testing");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
