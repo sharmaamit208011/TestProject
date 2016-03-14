@@ -21,6 +21,9 @@
     
     // my new changes (abhi)
     [super viewDidLoad];
+    NSLog(@"This line is for testing");
+    NSLog(@"This line is for testing two");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 

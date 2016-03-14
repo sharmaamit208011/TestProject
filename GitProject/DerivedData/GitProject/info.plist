@@ -3,6 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>WorkspacePath</key>
+<<<<<<< HEAD
 	<string>/Users/ARK/Documents/GitProject/GitProject/GitProject.xcodeproj</string>
+=======
+	<string>/Users/dineshkumardhanekula/TestProject/GitProject/GitProject.xcodeproj</string>
+>>>>>>> e0892b465204cbcd961291c1a5d13d8b569ce880
 </dict>
 </plist>
