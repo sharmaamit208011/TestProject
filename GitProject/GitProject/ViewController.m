@@ -15,6 +15,8 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    
+    UIView *remoteServerView = [[UIView alloc] init];
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
